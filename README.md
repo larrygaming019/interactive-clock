@@ -10,6 +10,7 @@ This is a feature-packed, highly customizable HTML5 clock built completely with 
 
 ### 🕒 Hands-On Timekeeping
 * **Interactive Dragging:** Grab any hand—hours, minutes, seconds, or sub-dials—and spin it around to inspect specific times.
+* **Realistic Physics:** Built-in spring and magnetic physics pull the hands back smoothly when you let go.
 * **Sub-Dials & Indicators:** Keeps track of milliseconds, the day of the week, and the month of the year.
 * **Digital & Counter Displays:** Prefer numbers? Toggle between a clean digital readout (12h/24h) or a rolling mechanical counter.
 
@@ -24,7 +25,6 @@ This is a feature-packed, highly customizable HTML5 clock built completely with 
 
 ### 🌍 Extra Goodies
 * **World Clocks:** Track time across the globe by adding secondary time zone dials side-by-side.
-* **Audio FX:** Turn on authentic mechanical ticking sounds (with adjustable volume, so it doesn't drive you crazy!).
 * **Time Machine Controls:** Pause time, fast-forward, rewind, or set custom simulation speeds.
 
 ---
